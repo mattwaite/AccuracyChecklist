@@ -1,3 +1,3 @@
-# AccuracyChecklist
+#Accuracy Checklist
 
-A checklist for journalists and journalism students to help cut down on simple mistakes in stories. It was [inspired by Steve Buttry's PBS MediaShift post](http://www.pbs.org/mediashift/2015/02/journalism-professors-should-teach-accuracy-checklists/) and is based partly on that post and partly on my own teachings. If you want to make additions or suggest changes, make a pull request or email matt dot waite at gmail dot com. 
+This is a checklist for journalists and journalism students to help cut down on simple mistakes in stories. It was [inspired by Steve Buttry's PBS MediaShift post](http://www.pbs.org/mediashift/2015/02/journalism-professors-should-teach-accuracy-checklists/) and is based partly on that post and partly on my own teachings. If you want to make additions or suggest changes, make a pull request or email matt dot waite at gmail dot com. 
